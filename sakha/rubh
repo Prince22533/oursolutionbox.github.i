@@ -1,0 +1,91 @@
+
+	<section class="reel section py-4 my-2">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+					<a href="video/reel.mp4"><video>
+						<source src="video/reel.mp4" type="video/mp4">
+					</video></a> 
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+	<div class="col-md-5">
+					<ul class="list-inline float-end fs-1 p-3">
+						<li class="list-inline-item"><a href=""><i class="fa-solid fa-ellipsis"></i></a> </li>
+						<li class="list-inline-item"><a href=""><i class="fa-solid fa-xmark"></i></a> </li>
+					</ul>
+				</div>
+
+
+
+
+
+				<div class="float-end fs-1 btn btn-secondary"><i class="fa fa-solid fa-magnifying-glass"></i></div>
+	    <div class="btn btn-secondary fs-4 p-2"><a href="">Requests</a> </div>
+	     <div class="btn btn-secondary fs-4 p-2"><a href="">Your Friends</a> </div>
+	     		<h3 class="fs-4 py-4">People You may Know</h3>
+	     <div class="row friend-icons">
+	     	<div class="col-3">
+	     		<a href=""><img src="image/bill-gates.jpg" class="friend-image"></a>
+	     	</div>
+	     	<div class="col-9">
+	     		<a href="" class="text-white">Prince Gupta</a>
+	     		<br>
+	     		<button class="btn btn-primary"><a href=""  class="text-white">Add Friend</a> </button>
+	     		<div class="btn btn-secondary"><a href=""  class="text-white">Remove</a> </div>
+	     	</div>
+
+	     		     		<div class="btn btn-secondary">Remove</div>
+
+
+
+
+	     		     			<button type="" class="btn btn-primary py-2">Posts</button><br>
+				<b class="fs-1">Details</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 text-muted px-4">Current city</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 text-muted px-4">Workplace</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 text-muted px-4">School</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 text-muted px-4">Hometown</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 text-muted px-4">Relationship Status</b><br>
+				<i class="fa-solid fa-ellipsis fs-1"></i><b class="fs-2 px-4">See your About info</b><br>
+			</div>
+		</div>
+			<div class="row">
+				<div class="col d-grid gap-3 py-4"><div class="btn text-primary bg-info">Edit public details</div></div>
+
+
+
+					<div class="float-end fs-5 btn btn-secondary" style="border-radius:50%;"><i class="fa fa-solid fa-magnifying-glass"></i></div>
+	     		<h4 class="fs-4 py-3">Missed friends update</h4>
+	     		<div class="float-end fs-1"><i class="fa-solid fa-ellipsis"></i></div>
+	     		<div class="row">
+	     	<div class="col-3">
+	     		<img src="image/bill-gates.jpg" class="friend-image">
+	     	</div>
+	     	<div class="col-3">
+	     		<img src="image/bill-gates.jpg" class="friend-image">
+	     	</div>
+	     	<div class="col-3">
+	     		<img src="image/bill-gates.jpg" class="friend-image">
+	     	</div>
+	     	</div>

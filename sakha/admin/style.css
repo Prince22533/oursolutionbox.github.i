@@ -1,0 +1,50 @@
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #f25126;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+section, header, nav{
+	background: #fff;
+	padding: 20px 0 20px 0;
+}
+#nav li a{
+	color: white;
+	padding: 10px;
+	font-size: 30px;
+}
+#nav li a:hover{
+	background: #f25126;
+	color: white;
+}
+.admin{
+	padding: 10% 35%;
+	height: auto;
+	width: 100%;
+}
+.web-set{
+	padding: 3% 35%;
+	height: auto;
+	width: 100%;
+}
+.add-user{
+	border: 1px solid black;
+	margin: 100px;
+}
+.add-user input{
+	width: 100%;
+}
+.pagination>.active>a{
+	background: orange;
+	 z-index: 2;
+    color: #fff;
+    cursor: default;
+
+    border-color: #337ab7;
+}
+
